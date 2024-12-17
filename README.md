@@ -30,7 +30,7 @@ Sou **QA Engineer** e **Tech Lead** com mais de 6 anos de experiência em Garant
 
 ---
 
-## 📞 Vamos nos conectar!
+#### 📞 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JSouza-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joaovitor-souza)
 
