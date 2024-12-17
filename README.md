@@ -25,9 +25,11 @@ Sou **QA Engineer** e **Tech Lead** com mais de 6 anos de experiência em Garant
 ---
 
 ## ⏱️ Minhas Estatísticas no WakaTime
-
+<details>
+  
 [![JSouza13's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSOUZA13)](https://github-readme-stats.vercel.app/api/wakatime?username=JSOUZA13)
 
+</details>
 ---
 
 #### 📞 Vamos nos conectar!
