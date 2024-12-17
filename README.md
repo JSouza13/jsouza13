@@ -9,8 +9,6 @@
 
 <div align="left">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=JSouza13&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
 [![JSouza13's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSOUZA13)](https://github-readme-stats.vercel.app/api/wakatime?username=JSOUZA13)
 </div>
 
