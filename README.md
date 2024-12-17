@@ -8,7 +8,8 @@
 ---
 
 <div align="left">
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsouza13)](https://github.com/anuraghazra/github-readme-stats)
+  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSOUZA13)
+
   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@JSouza13)](https://github.com/anuraghazra/github-readme-stats)
   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@JSouza13&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
