@@ -8,8 +8,8 @@
 ---
 
 <div align="left">
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSouza13)](https://github.com/anuraghazra/github-readme-stats)
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSouza13&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@JSouza13)](https://github.com/anuraghazra/github-readme-stats)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@JSouza13&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
