@@ -9,7 +9,6 @@
 
 <div align="left">
   ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSOUZA13)
-  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSOUZA13)
 </div>
 
 ---
