@@ -15,5 +15,7 @@
 ---
 
 <div align="left">
+  
   [![LinkedIn](https://img.shields.io/badge/LInkedIn-Zachary-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joaovitor-souza)
+  
 </div>
