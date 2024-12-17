@@ -14,10 +14,6 @@
 
 ---
 
-#### Contato:
-
 <div align="left">
-  <a href="https://www.linkedin.com/in/joaovitor-souza/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LInkedIn-Zachary-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joaovitor-souza)
 </div>
