@@ -7,6 +7,12 @@
 
 ---
 
+<div align="left">
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSouza13&locale=PT-br)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+---
+
 ## Contato:
 
 <div align="left">
